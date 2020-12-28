@@ -19,7 +19,7 @@ a:hover {
 }
 
 #banner {
-  background: #F6F6F6 url('/banner.jpg') no-repeat top left;
+  background: #F6F6F6 url('banner.jpg') no-repeat top left;
   height: 55px;
   background-size: 1920px;
   min-width: 1000px;
@@ -58,7 +58,7 @@ header {
 }
 
 #nav-logo .nav-logo-link {
-  background: transparent url('/logo.png') no-repeat top left;
+  background: transparent url('logo.png') no-repeat top left;
   background-size: 102px;
   width: 192px;
   height: 32px;
@@ -83,7 +83,7 @@ header {
 #nav-holiday {
   top: 9px;
   position: relative;
-  background-image: url('/fathers_day.jpg');
+  background-image: url('fathers_day.jpg');
   width: 400px;
   height: 39px;
 }
@@ -272,7 +272,7 @@ header {
 }
 
 #nav-main .nav-right .cart {
-  background: transparent url(/cart.png) no-repeat 11px 11px;
+  background: transparent url(cart.png) no-repeat 11px 11px;
   background-size: 39px;
   padding: 7px 20px 7px 50px;
 }
@@ -489,7 +489,7 @@ footer .middle li {
 }
 
 footer .middle .logo {
-  background: transparent url('/logo.png') no-repeat 0 0;
+  background: transparent url('logo.png') no-repeat 0 0;
   background-size: 76px;
   width: 76px;
   height: 23px;
